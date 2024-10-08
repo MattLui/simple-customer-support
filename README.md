@@ -71,10 +71,3 @@ The backend provides the following API endpoint:
       "answer": "EVA automates the process of verifying a patient’s eligibility and benefits information in real-time."
       }
       ```
-
-## Available Scripts
-
-In the project directory, you can run:
-
-- **`npm install`**: Installs the project dependencies for both frontend and backend.
-- **`npm start`**: Starts both the backend and frontend servers simultaneously.
